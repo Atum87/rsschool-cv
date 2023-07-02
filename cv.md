@@ -1,1 +1,3 @@
-#Michal Kandrakou
+# Michal Kandrakou
+******
+## Junior Frontend Developer
